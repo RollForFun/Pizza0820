@@ -1,2 +1,2 @@
-<img src="images/front.jpg" /><br/>
-<img src="images/back.jpg" />
+<img style="width: 100%;" src="images/front.jpg" /><br/>
+<img style="width: 100%;" src="images/back.jpg" />
